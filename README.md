@@ -2,7 +2,7 @@
 
 ## LetsCreateProject
 
-#This project includes some FPS Game Controllers. Those Controllers have some mechanics as Jump, Dash, Hover and some collectable and interactive objects. 
+#This project includes some FPS Game Controllers and Third Person Controller. Those Controllers have some mechanics as Jump, Dash, Hover and some collectable and interactive objects. 
 
 Some screenshots from the project
 
